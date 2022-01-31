@@ -52,7 +52,7 @@
    <a href="https://github.com/bkturner1220/MERN-Google_Book_Search" target="_blank">https://github.com/bkturner1220/MERN-Google_Book_Search</a>
 
 ## Heroku Deployment URL 🔗 <a name='heroku'></a>
-   <a href="https://git.heroku.com/" target="_blank">https://git.heroku.com/</a>
+   <a href="https://git.heroku.com/peaceful-oasis-83182.git" target="_blank">https://git.heroku.com/peaceful-oasis-83182.git</a>
      
 ## Contact Information <a name='contact'></a>
    Github Username: [bkturner1220](https://github.com/bkturner1220/)<br>
