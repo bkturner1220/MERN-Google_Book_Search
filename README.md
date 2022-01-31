@@ -35,14 +35,10 @@
 ## Screenshots 📷 <a name='screenshots'></a>
    ![alt text](./assets/screenshots/screenshot.png)
    ![alt text](./assets/screenshots/screenshot01.png)
-
    <br>
    
 ## Demo Video 📺 <a name='demo'></a>
-   <a href="" target="_blank">----==== YouTube.com Video Link (with audio) ====----</a>
    <br>
-   <br>
-
    ![alt text](./assets/demo/demo.gif)
         
 ## Github Pages URL 🔗 <a name='pages'></a>
