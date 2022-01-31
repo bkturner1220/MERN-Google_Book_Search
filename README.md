@@ -33,7 +33,9 @@
    npm test
 
 ## Screenshots 📷 <a name='screenshots'></a>
-   ![alt text]()
+   ![alt text](./assets/screenshots/screenshot.png)
+   ![alt text](./assets/screenshots/screenshot01.png)
+
    <br>
    
 ## Demo Video 📺 <a name='demo'></a>
@@ -41,7 +43,7 @@
    <br>
    <br>
 
-   ![alt text]()
+   ![alt text](./assets/demo/demo.gif)
         
 ## Github Pages URL 🔗 <a name='pages'></a>
    <a href="https://bkturner1220.github.io/MERN-Google_Book_Search" target="_blank">https://bkturner1220.github.io/MERN-Google_Book_Search</a>
