@@ -38,7 +38,6 @@
    <br>
    
 ## Demo Video 📺 <a name='demo'></a>
-   <br>
    ![alt text](./assets/demo/demo.gif)
         
 ## Github Pages URL 🔗 <a name='pages'></a>
